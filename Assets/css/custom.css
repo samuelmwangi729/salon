@@ -1,0 +1,34 @@
+.list-group{
+  padding-left: 0px;
+}
+.list-group-item{
+  color: white;
+  background-color: black;
+  opacity: .5;
+}
+.list-group-item a{
+  color: white;
+  font-family:cursive;
+  font-size:12px;
+  font-weight:bold;
+  text-shadow:1px 1px red;
+}
+.form{
+  border:1px solid black;
+  background-color: black;
+  opacity: .8;
+}
+.form h3{
+  color: white;
+  font-family:cursive;
+  font-size:25px;
+  font-weight:bold;
+  text-shadow:1px 1px red;
+}
+.form{
+  background-color: black;
+  opacity: .8;
+}
+.navbar-brand a{
+  text-align: center;
+}
